@@ -1,1 +1,1 @@
-# Pomodoro-Aura-personal-project-
+# Pomodoro Aura (personal project)
